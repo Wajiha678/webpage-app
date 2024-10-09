@@ -40,3 +40,55 @@ a {
     color-scheme: dark;
   }
 }
+
+.green{
+  font-size: 80px;
+  font-family:'Times New Roman', Times, serif;;;
+  background-color: rgb(125, 212, 125);
+  text-align: center;
+}
+
+.brown{
+  font-size: 80px;
+  font-family:'Times New Roman', Times, serif;; ;
+  background-color: rgb(148, 190, 154);
+  text-align: center;
+}
+
+.gray{
+  font-size: 80px;
+  font-family: 'Times New Roman', Times, serif;;
+  background-color: rgb(189, 181, 173);
+  text-align: center;
+}
+
+.black{
+  font-weight:bolder;
+  font-size: 30px;
+  background-color: bisque;
+  text-align: center;
+  text-shadow: 0  11px  5px  rgb(87, 68, 63);
+  text-decoration: underline rgb(5, 5, 214);
+}
+
+
+.logIn{
+  font-size: 80px;
+  font-family:'Times New Roman', Times, serif;;
+  background-color: #b38178;
+  text-align: center;
+}
+
+.skin{
+  font-size: 50px;
+  font-family:'Times New Roman', Times, serif ;
+  background-color: #74b3b8;
+  text-align: center;
+ text-decoration: underline blue;
+ text-shadow: 0  4px  5px  black;
+}
+
+.cssStyle.reviews{
+  background-color: #b38178;
+  
+}
